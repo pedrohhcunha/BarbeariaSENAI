@@ -8,14 +8,15 @@ body{
     background: rgb(226, 226, 226);
 }
 
-.bannerInicial{
+#bannerInicial{
     width: 100%;
 }
-
+#missao{
+    font-size: 20px;
+}
 h1{
     text-align: center;
 }
 p{
-    font-size: 20px;
     text-align: center;
 }

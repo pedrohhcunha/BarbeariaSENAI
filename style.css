@@ -20,3 +20,8 @@ h1{
 p{
     text-align: center;
 }
+
+.content{
+    width: 100%;
+    padding: 50px 10%;
+}

@@ -5,7 +5,6 @@
 }
 
 body{
-    background: rgb(226, 226, 226);
 }
 
 #bannerInicial{
@@ -24,4 +23,5 @@ p{
 .content{
     width: 100%;
     padding: 50px 10%;
+    background-color: #ccc;
 }
